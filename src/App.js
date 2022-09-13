@@ -1,9 +1,9 @@
-import './styles/main.scss';
+import Home from './components/Home';
 
 function App() {
   return (
     <div className='App'>
-      <h1>Work in progress...</h1>
+      <Home />
     </div>
   );
 }
