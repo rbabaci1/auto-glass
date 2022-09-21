@@ -15,7 +15,10 @@ export default function Header() {
       </div>
 
       <div className='navigation' role='navigation' aria-label='main'>
-        <h1>Logo</h1>
+        <img
+          src={require('../../images/logo-no-background.png')}
+          alt=' SVG as logo'
+        />
         <div className='site-nav-container'>
           <a href='http://localhost:3000/'>HOME</a>
           <a href='http://localhost:3000/'>ABOUT US</a>

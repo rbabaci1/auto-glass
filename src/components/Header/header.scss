@@ -16,10 +16,14 @@
   .navigation {
     display: flex;
     justify-content: space-between;
-    // align-content: flex-start;
+    flex-wrap: wrap;
     padding: 10px 15px;
     max-width: 1020px;
     margin: 0 auto;
+
+    img {
+      height: 55px;
+    }
 
     .site-nav-container {
       display: flex;
