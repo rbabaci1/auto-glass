@@ -1,5 +1,8 @@
 .header-wrapper {
   border-bottom: 0.5px solid rgb(160, 160, 160);
+  position: sticky;
+  top: 0;
+  background-color: #fff;
 
   .covid-alert {
     background: #da291c;
