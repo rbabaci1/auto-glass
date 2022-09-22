@@ -1,7 +1,10 @@
 .container {
-  background-color: antiquewhite;
-  // height: 800px;
-  margin: 20px;
-  padding: 20px;
-  border: 0.5px solid red;
+  max-width: 100% !important;
+  z-index: 0;
+  padding: 0 !important;
+
+  .carousel {
+    // width: 100%;
+    // margin: auto;
+  }
 }
