@@ -9,24 +9,24 @@ export default function HomeLanding() {
         <Carousel.Item>
           <img
             className='d-block w-100'
-            src='https://images.unsplash.com/photo-1652987086612-d948b775d358?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YXV0byUyMGdsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+            src='https://images.unsplash.com/photo-1651084296894-105edab05b26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXV0byUyMGdsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
             alt='First slide'
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h3>Quick fix car galass</h3>
+            <p>We don't just say low prices, we aimt to live them.</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className='d-block w-100'
-            src='https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGF1dG8lMjBnbGFzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+            src='https://images.unsplash.com/photo-1651084296928-93292998d0af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXV0byUyMGdsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
             alt='Second slide'
           />
 
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h3>Free mobile service.</h3>
+            <p>We come to you, so you don't get distracted.</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
