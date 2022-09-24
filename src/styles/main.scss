@@ -38,8 +38,3 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-h2,
-p {
-  color: lighten($color: $dark_gray, $amount: 6);
-}
