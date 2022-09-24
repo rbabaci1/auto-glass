@@ -14,7 +14,7 @@ export default function HomeLanding() {
           />
           <Carousel.Caption>
             <h3>Quick fix car galass</h3>
-            <p>We don't just say low prices, we aimt to live them.</p>
+            <p>We don't just say low prices, we aim to live them.</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
