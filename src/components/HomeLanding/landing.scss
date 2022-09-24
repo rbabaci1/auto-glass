@@ -1,0 +1,30 @@
+.container {
+  max-width: 100% !important;
+  z-index: 0;
+  padding: 0 !important;
+
+  .carousel-item {
+    height: 600px;
+
+    img {
+      filter: brightness(0.5);
+    }
+
+    .carousel-caption {
+      bottom: 230px;
+
+      h3 {
+        font-size: 52px;
+        font-weight: 800;
+        line-height: 63px;
+        color: #f76541;
+        text-transform: uppercase;
+      }
+
+      p {
+        color: #fff;
+        font-size: 21px;
+      }
+    }
+  }
+}

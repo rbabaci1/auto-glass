@@ -1,8 +1,8 @@
 import Carousel from 'react-bootstrap/Carousel';
-import './main.scss';
+import './landing.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function MainContent() {
+export default function HomeLanding() {
   return (
     <div className='container'>
       <Carousel>
