@@ -32,8 +32,12 @@ export default function HomeLanding() {
       </Carousel>
 
       <div className='why-us'>
-        <h2>Why Us</h2>
-        <span />
+        <div className='heading'>
+          <h2>Why Us</h2>
+          <span />
+        </div>
+
+        <div className='row'></div>
       </div>
     </div>
   );
