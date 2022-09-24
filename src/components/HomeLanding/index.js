@@ -30,7 +30,8 @@ export default function HomeLanding() {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-      );
+
+      <div className='why-us'></div>
     </div>
   );
 }
