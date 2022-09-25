@@ -37,7 +37,27 @@ export default function HomeLanding() {
           <span />
         </div>
 
-        <div className='row'></div>
+        <div className='row'>
+          <div className='icon'>
+            <img
+              src={require('../../images/guaranteed.png')}
+              alt='work guaranteed icon'
+            />
+          </div>
+          <div className='icon'>
+            <img
+              src={require('../../images/calculator.png')}
+              alt='work estimates icon'
+            />
+          </div>
+          <div className='icon'>
+            {' '}
+            <img
+              src={require('../../images/agreement.png')}
+              alt='agreement icon'
+            />
+          </div>
+        </div>
       </div>
     </div>
   );
