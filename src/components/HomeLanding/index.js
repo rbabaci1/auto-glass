@@ -43,12 +43,17 @@ export default function HomeLanding() {
               src={require('../../images/guaranteed.png')}
               alt='work guaranteed icon'
             />
+            <p>Trusted Service Centers are certified for high quality</p>
           </div>
           <div className='icon'>
             <img
               src={require('../../images/calculator.png')}
               alt='work estimates icon'
             />
+            <p>
+              {' '}
+              We bring you the most accurate and fair-price service estimates
+            </p>
           </div>
           <div className='icon'>
             {' '}
@@ -56,6 +61,7 @@ export default function HomeLanding() {
               src={require('../../images/agreement.png')}
               alt='agreement icon'
             />
+            <p>Covers parts and labor on qualifying repairs and services</p>
           </div>
         </div>
       </div>
