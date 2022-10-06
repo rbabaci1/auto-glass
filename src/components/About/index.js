@@ -5,7 +5,12 @@ export default function About() {
     <div className='about-container'>
       <div className='inner-container'>
         <div className='about-txt'>
-          <h4>ABOUT QUICK FIX CAR GLASS</h4>
+          <div className='header'>
+            <img src={require('../../images/finder.png')} alt='car glass' />
+            <span>ABOUT QUICK FIX CAR GLASS</span>
+          </div>
+
+          <div className='txt'></div>
         </div>
 
         <div className='about-imgs'>

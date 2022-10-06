@@ -1,19 +1,28 @@
 .about-container {
   padding: 60px 0;
   background-color: darken($color: #3987cf, $amount: 30);
-  color: #fe633d;
+  color: #f26b49;
 
   .inner-container {
-    max-width: 1200px;
+    max-width: 1050px;
     display: flex;
     justify-content: space-between;
     margin: auto;
 
     .about-txt {
-      h4 {
-        font-size: 19px;
-        letter-spacing: 1px;
-        font-weight: 600;
+      .header {
+        display: flex;
+        align-items: center;
+
+        img {
+          width: 40px;
+        }
+        span {
+          font-size: 16px;
+          letter-spacing: 1px;
+          font-weight: 600;
+          margin-left: 10px;
+        }
       }
     }
 
