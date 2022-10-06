@@ -1,5 +1,26 @@
 .about-container {
   padding: 60px 0;
   background-color: darken($color: #3987cf, $amount: 30);
-  color: #fff;
+  color: #fe633d;
+
+  .inner-container {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+    .about-txt {
+      h4 {
+        font-size: 19px;
+        letter-spacing: 1px;
+        font-weight: 600;
+      }
+    }
+
+    .about-imgs {
+      img {
+        width: 350px;
+      }
+    }
+  }
 }
