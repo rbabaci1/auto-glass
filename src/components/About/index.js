@@ -1,3 +1,9 @@
+import './about.scss';
+
 export default function About() {
-  return <h2>ABOUT SECTION</h2>;
+  return (
+    <div className='about-container'>
+      <h2>ABOUT SECTION</h2>
+    </div>
+  );
 }

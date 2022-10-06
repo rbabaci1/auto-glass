@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function HomeLanding() {
   return (
-    <div className='container'>
+    <div className='landing-container'>
       <Carousel>
         <Carousel.Item>
           <img
