@@ -8,13 +8,15 @@
 
   .covid-alert {
     background: #da291c;
-    text-align: center;
+    text-align: end;
     line-height: 25px;
     padding: 10px 15px;
     color: #fff;
 
     a {
+      margin-left: 10px;
       color: #fff;
+      letter-spacing: 0.5px;
     }
   }
 

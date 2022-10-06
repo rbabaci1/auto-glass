@@ -4,13 +4,13 @@ export default function Header() {
   return (
     <div className='header-wrapper'>
       <div className='covid-alert'>
-        Local auto glass shops facing glass shortage.{' '}
+        Call Us Today
         <a
           href='https://www.ksby.com/news/local-news/local-auto-glass-shops-facing-glass-shortage'
           rel='noreferrer'
           target='_blank'
         >
-          Learn more
+          +1 510 971 0929
         </a>
       </div>
 
