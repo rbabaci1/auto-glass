@@ -13,7 +13,7 @@ export default function HomeLanding() {
             alt='First slide'
           />
           <Carousel.Caption>
-            <h3>Quick fix car galass</h3>
+            <h3>Quick fix car glass</h3>
             <p>We don't just say low prices, we aim to live them.</p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -43,6 +43,7 @@ export default function HomeLanding() {
               src={require('../../images/guaranteed.png')}
               alt='work guaranteed icon'
             />
+            <h3>TRUSTED</h3>
             <p>Trusted Service Centers are certified for high quality</p>
           </div>
           <div className='icon'>
@@ -50,17 +51,17 @@ export default function HomeLanding() {
               src={require('../../images/calculator.png')}
               alt='work estimates icon'
             />
+            <h3>ESTIMATES</h3>
             <p>
-              {' '}
               We bring you the most accurate and fair-price service estimates
             </p>
           </div>
           <div className='icon'>
-            {' '}
             <img
               src={require('../../images/agreement.png')}
               alt='agreement icon'
             />
+            <h3>GUARANTEES</h3>
             <p>Covers parts and labor on qualifying repairs and services</p>
           </div>
         </div>
