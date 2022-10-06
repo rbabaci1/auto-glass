@@ -1,3 +1,4 @@
+import About from './components/About';
 import Header from './components/Header';
 import HomeLanding from './components/HomeLanding';
 
@@ -6,6 +7,7 @@ function App() {
     <div className='App'>
       <Header />
       <HomeLanding />
+      <About />
     </div>
   );
 }
