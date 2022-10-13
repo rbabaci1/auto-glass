@@ -1,5 +1,5 @@
 .about-container {
-  padding: 60px 0;
+  padding: 150px 0;
   background-color: darken($color: #3987cf, $amount: 30);
   color: #f26b49;
 
@@ -44,8 +44,15 @@
     }
 
     .about-imgs {
+      position: relative;
       img {
         width: 350px;
+      }
+      #img2 {
+        position: absolute;
+        left: 50px;
+        top: -130px;
+        width: 250px;
       }
     }
   }

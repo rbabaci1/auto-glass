@@ -32,6 +32,11 @@ export default function About() {
             src='https://images.unsplash.com/photo-1659115904528-8650d05527a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGF1dG8lMjBnbGFzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
             alt='test'
           />
+          <img
+            id='img2'
+            src='https://cdn.pixabay.com/photo/2016/10/18/09/33/glass-1749697__480.jpg'
+            alt='a'
+          />
         </div>
       </div>
     </div>
