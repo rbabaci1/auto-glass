@@ -18,7 +18,7 @@ export default function About() {
               Our auto glass service uses innovative technology and is built for
               your convenience. We are certified technicians through AGSC. We
               get the job done quickly and provide quality workmanship so you
-              can have a peace of mind.  ​ When it comes to price, we beat the
+              can have a peace of mind. When it comes to price, we beat the
               competition and can fix your glass needs today or the next day.
               Our mobile service also allows you to schedule an appointment at a
               time and place that works for you. Most importantly, all of our
