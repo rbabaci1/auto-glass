@@ -1,5 +1,5 @@
 .about-container {
-  padding: 150px 0;
+  padding: 160px 0 50px 0;
   background-color: darken($color: #3987cf, $amount: 30);
   color: #f26b49;
 
@@ -10,7 +10,7 @@
     margin: auto;
 
     .about-txt {
-      padding: 0 20px;
+      padding: 0 60px;
 
       .header {
         display: flex;
@@ -45,14 +45,16 @@
 
     .about-imgs {
       position: relative;
+
       img {
         width: 350px;
       }
       #img2 {
         position: absolute;
-        left: 50px;
-        top: -130px;
+        right: 50px;
+        top: -100px;
         width: 250px;
+        opacity: 0.9;
       }
     }
   }
